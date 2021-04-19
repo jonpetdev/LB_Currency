@@ -1,0 +1,76 @@
+.selection_submition_block{
+    width:auto;
+    height: 70px;
+    margin:20px;
+    background: dimgrey;
+    border:solid 1px white;
+    border-radius: 5px;
+}
+.result_block{
+
+}
+.currency_code_select_block{
+    margin-left: 20px;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+}
+.label_selection{
+    color:darkorange;
+    margin: 5px 0 2px;
+}
+.input_date_block{
+    width: 120px;
+    height: 50px;
+    display: inline-block;
+}
+
+.collum{
+    text-align: center;
+}
+
+.tr_change{
+    background: #d1e6ff;
+    border-bottom: solid 2px black;
+    border-left: solid 3px darkorange;
+    border-right: solid 3px darkorange
+}
+.tr_rate{
+    border-left: solid 3px darkorange;
+    border-right: solid 3px darkorange
+}
+.tr_currency{
+    background: #ecc99f;
+    border-left: solid 3px darkorange;
+    border-right: solid 3px darkorange
+}
+.tr_header{
+    background: darkorange;
+    color: white;
+    border: solid 3px darkorange;
+    border-bottom:solid  2px black;
+}
+
+.date_input{
+    height:28px;
+    width:120px;
+    border: solid 0.5px grey;
+    border-radius: 4px;
+}
+.button_submit{
+    height:28px;
+    background: darkorange;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.download_btn_block{
+    margin-top:25px;
+    float: right;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+
+}
